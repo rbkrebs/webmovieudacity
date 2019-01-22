@@ -13,7 +13,7 @@ For downloading the files, please, check this repository [Github](https://github
 
 The file `media.py` has the class `Movie()`. This class has two methods:
 
-Its constructor, wich receive 4 parameter: the title of the movie, a short phrase about the movie, a link of the image
+Its constructor, which receive 4 parameter: the title of the movie, a short phrase about the movie, a link of the image
 related to the movie and a youtube link with the trailer.
 ```
 def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
@@ -64,7 +64,13 @@ This file is responsable to create the `HTML` file according to the instances cr
 
 ## Run
 
-Once you have both files into the same folder (you can create a new forlder if you prefer),  run the entertainment_center.py file. This file has already some instances as examples. If you desire, you can add more follow the structure
+To run this project follow the next steps forward:
+
+1 - Clone the directory or download as a zip file. If you download, unpack the zip first.
+2 - Navigate to the directory cd repository_name or folder name.
+3 - Inside the repository or folder, run python entertainment_center.py. You can see [here](http://www.cs.bu.edu/courses/cs108/guides/runpython.html) how to run python according to your OS system.
+
+The `entertainment_center.py` has already some examples of instances. You can add more if you prefer! To do this, you can open the file using any [`text editor` or IDLE](http://www.cs.bu.edu/courses/cs108/guides/runpython.html) and save after. Then, repeat the steps 1 to 3 as mentioned before.
 
 ## License
 
