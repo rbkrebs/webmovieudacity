@@ -66,9 +66,9 @@ This file is responsable to create the `HTML` file according to the instances cr
 
 To run this project follow the next steps forward:
 
-1 - Clone the directory or download as a zip file. If you download, unpack the zip first.
-2 - Navigate to the directory cd repository_name or folder name.
-3 - Inside the repository or folder, run python entertainment_center.py. You can see [here](http://www.cs.bu.edu/courses/cs108/guides/runpython.html) how to run python according to your OS system.
+1. Clone the directory or download as a zip file. If you download, unpack the zip first.
+2. Navigate to the directory cd repository_name or folder name.
+3. Inside the repository or folder, run python entertainment_center.py. You can see [here](http://www.cs.bu.edu/courses/cs108/guides/runpython.html) how to run python according to your OS system.
 
 The `entertainment_center.py` has already some examples of instances. You can add more if you prefer! To do this, you can open the file using any [`text editor` or IDLE](http://www.cs.bu.edu/courses/cs108/guides/runpython.html) and save after. Then, repeat the steps 1 to 3 as mentioned before.
 
